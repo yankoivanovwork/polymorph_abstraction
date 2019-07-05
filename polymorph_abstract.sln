@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "polymorphism", "polymorph_abstract\polymorphism.csproj", "{77A7793B-1A30-4DD0-A6B7-86C4983BA701}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstraction_test", "abstraction_test\abstraction_test.csproj", "{933268E8-039B-4CE2-8BE4-B6A06F480189}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77A7793B-1A30-4DD0-A6B7-86C4983BA701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A7793B-1A30-4DD0-A6B7-86C4983BA701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A7793B-1A30-4DD0-A6B7-86C4983BA701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A7793B-1A30-4DD0-A6B7-86C4983BA701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{933268E8-039B-4CE2-8BE4-B6A06F480189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{933268E8-039B-4CE2-8BE4-B6A06F480189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{933268E8-039B-4CE2-8BE4-B6A06F480189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{933268E8-039B-4CE2-8BE4-B6A06F480189}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6022CC9-EF95-4FAC-9CA9-5C367A072E0D}
+	EndGlobalSection
+EndGlobal

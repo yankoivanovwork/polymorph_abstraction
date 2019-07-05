@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\polymorph_abstract\polymorph_abstract\bin\Debug\polymorph_abstract.exe.config
+C:\Users\User\source\repos\polymorph_abstract\polymorph_abstract\bin\Debug\polymorph_abstract.exe
+C:\Users\User\source\repos\polymorph_abstract\polymorph_abstract\bin\Debug\polymorph_abstract.pdb
+C:\Users\User\source\repos\polymorph_abstract\polymorph_abstract\obj\Debug\polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\polymorph_abstract\polymorph_abstract\obj\Debug\polymorph_abstract.exe
+C:\Users\User\source\repos\polymorph_abstract\polymorph_abstract\obj\Debug\polymorph_abstract.pdb
+C:\Users\User\source\repos\polymorph_abstract\polymorph_abstract\obj\Debug\polymorphism.csprojAssemblyReference.cache
