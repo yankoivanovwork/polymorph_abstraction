@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace abstraction_test
 {
-    class BasicOperation : Calculator
+    public class BasicOperation : Calculator
     {
         private double result;
         private int choice;
